@@ -43,13 +43,9 @@ Explain the choice and incorporation of endorsements from credible sources to bu
 Discuss the call to action in the hero section, guiding users to sign up or learn more.
 Detail the creation of the hero section using Tailwind CSS for styling and grid layout for alignment.
 
-- (Companies can create strong brand personalities for each endorsed brand, making it easier to reach new audiences.
+- 1(Companies can create strong brand personalities for each endorsed brand, making it easier to reach new audiences.
 Endorsed brands allow strategic portfolio expansion and exploration of different markets.
-In summary, endorsed brands provide a way for organizations to leverage existing brand equity while allowing their sub-brands to thrive independently) CHANGE
-- (in the digital world, a well-crafted Call to Action (CTA) is like a guiding beacon for users, steering them towards making a decision or taking a desired action. Whether it’s signing up for a newsletter, making a purchase, or downloading a resource, CTAs play a pivotal role in enhancing user experience and driving conversions.) CHANGE
-- Tailwind CSS follows a utility-first approach, which means it provides a comprehensive set of utility classes that you can directly apply to your HTML elements.Tailwind CSS offers utilities for specifying the columns in a grid layout. You can create grids with n equally sized columns using the grid-cols-* classes.ailwind CSS is a fantastic utility-first CSS framework that allows you to create responsive and visually appealing designs with ease. Let’s break down how you can use it for styling and grid layout alignment:(CHANGE)
-Styling with Tailwind CSS:
-Tailwind provides a wide range of utility classes that you can directly apply to your HTML elements. These classes handle everything from margins and padding to typography and colors(CHANGE)
+In summary, endorsed brands provide a way for organizations to leverage existing brand equity while allowing their sub-brands to thrive independently) CHANGE2(in the digital world, a well-crafted Call to Action (CTA) is like a guiding beacon for users, steering them towards making a decision or taking a desired action. Whether it’s signing up for a newsletter, making a purchase, or downloading a resource, CTAs play a pivotal role in enhancing user experience and driving conversions.) CHANGE3Tailwind CSS follows a utility-first approach, which means it provides a comprehensive set of utility classes that you can directly apply to your HTML elements.Tailwind CSS offers utilities for specifying the columns in a grid layout. You can create grids with n equally sized columns using the grid-cols-* classes.ailwind CSS is a fantastic utility-first CSS framework that allows you to create responsive and visually appealing designs with ease. Let’s break down how you can use it for styling and grid layout alignment:(CHANGE)Styling with Tailwind CSS:Tailwind provides a wide range of utility classes that you can directly apply to your HTML elements. These classes handle everything from margins and padding to typography and colors(CHANGE)
 
 
 SLIDE 4: Component 3 - Features
